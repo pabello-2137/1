@@ -11,7 +11,7 @@ int main()
         while (n % k == 0) {
             cout << k << endl;
             n = n / k;
-            k++;
        }
+        k++;
     }
 }
