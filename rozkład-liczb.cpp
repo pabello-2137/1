@@ -4,7 +4,7 @@ int main()
 {
     int n;
     int k;
-    cout << "podaj liczbe KURWA: ";
+    cout << "podaj liczbe: ";
     cin >> n;
     k = 2;
     while (n > 1) {
